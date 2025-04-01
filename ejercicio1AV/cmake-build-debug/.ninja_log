@@ -1,0 +1,14 @@
+# ninja log v5
+5	113	7652224028011688	CMakeFiles/ejercicio1AV.dir/ivector.c.obj	d4d07b1c763e18a5
+0	116	7652224028032812	CMakeFiles/ejercicio1AV.dir/main.c.obj	c0eb9c1e18e9d9b2
+116	356	7652224030422941	ejercicio1AV.exe	fa95a2b977d19c77
+2	70	7652224147410595	CMakeFiles/ejercicio1AV.dir/main.c.obj	c0eb9c1e18e9d9b2
+70	149	7652224148168681	ejercicio1AV.exe	fa95a2b977d19c77
+3	67	7652224206787904	CMakeFiles/ejercicio1AV.dir/main.c.obj	c0eb9c1e18e9d9b2
+67	145	7652224207539101	ejercicio1AV.exe	fa95a2b977d19c77
+2	73	7652227106530517	CMakeFiles/ejercicio1AV.dir/main.c.obj	c0eb9c1e18e9d9b2
+74	152	7652227107292270	ejercicio1AV.exe	fa95a2b977d19c77
+2	68	7652228054599129	CMakeFiles/ejercicio1AV.dir/main.c.obj	c0eb9c1e18e9d9b2
+69	146	7652228055331388	ejercicio1AV.exe	fa95a2b977d19c77
+2	63	7652228104492220	CMakeFiles/ejercicio1AV.dir/main.c.obj	c0eb9c1e18e9d9b2
+63	137	7652228105202591	ejercicio1AV.exe	fa95a2b977d19c77
